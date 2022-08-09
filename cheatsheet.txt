@@ -12,3 +12,13 @@ Touch | create new file
 Rm | remove file
 Mv | move file
 Cp | copy file
+
+Git init | initialise repository
+Git status | check status of repo
+Git add . | add all changes to repo
+Git add facts.txt | will add specific file to repo
+Git commit | commits changes to repo so they can be tracked 
+Git log | log status of repo
+Git remote add origin | Adds ???
+Git push origin main | Adds ???
+Git pull | pulls file from GitHub repo to local
