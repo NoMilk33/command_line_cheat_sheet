@@ -6,3 +6,9 @@ Ls -al | list of all files with info
 Clear | clears the terminal
 Cd | goes to root directory
 .. | goes to parent folder
+
+Mkdir | create new directory
+Touch | create new file
+Rm | remove file
+Mv | move file
+Cp | copy file
