@@ -1,0 +1,8 @@
+pwd | where you are
+Ls | list of branches within the parent branch
+Ls -l | list with extra info
+Ls -a | list with hidden files
+Ls -al | list of all files with info
+Clear | clears the terminal
+Cd | goes to root directory
+.. | goes to parent folder
